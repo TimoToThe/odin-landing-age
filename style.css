@@ -1,12 +1,21 @@
 * {
     padding: 0px;
     margin: 0px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
 .header,
 .hero,
 .footer {
     background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
 }
 
 body {
