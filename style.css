@@ -1,3 +1,8 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 .header,
 .hero,
 .footer {
@@ -8,3 +13,4 @@ body {
     display: flex;
     flex-direction: column;
 }
+
