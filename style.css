@@ -29,6 +29,7 @@
 .header ul {
     list-style-type: none;
     display: flex;
+    gap: 16px;
 }
 
 .logo {
